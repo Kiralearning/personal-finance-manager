@@ -4,22 +4,22 @@
 # Key Features:
 
 ## Add Income/Expenses:
-    Users can input their income (e.g., salary, bonus) and expenses (e.g., rent, groceries).
-    Each entry should have a category (e.g., food, entertainment, bills) and an amount.
+-    Users can input their income (e.g., salary, bonus) and expenses (e.g., rent, groceries).
+-    Each entry should have a category (e.g., food, entertainment, bills) and an amount.
 
 ## Track Balance:
-    The system will calculate the balance after each transaction.
-    Display a running total of the user’s balance.
+-    The system will calculate the balance after each transaction.
+-    Display a running total of the user’s balance.
 
 ## View Transaction History:
-    Users should be able to see a list of all their income and expense transactions.
+-    Users should be able to see a list of all their income and expense transactions.
 
 ## Generate Reports:
-    Generate a report of total income, total expenses, and balance for a given time period (e.g., weekly, monthly).
+-    Generate a report of total income, total expenses, and balance for a given time period (e.g., weekly, monthly).
 
 ## Budgeting:
-    Allow users to set a monthly budget for each category.
-    Notify users if they exceed the budget for a particular category.
+-    Allow users to set a monthly budget for each category.
+-    Notify users if they exceed the budget for a particular category.
 
 ## Save and Load Data:
-    Store transactions in a file (e.g., CSV or JSON) so that users can load the data later.
+-    Store transactions in a file (e.g., CSV or JSON) so that users can load the data later.
